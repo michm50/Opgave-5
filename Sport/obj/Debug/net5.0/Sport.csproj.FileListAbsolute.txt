@@ -1,0 +1,36 @@
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\bin\Debug\net5.0\Sport.deps.json
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\bin\Debug\net5.0\Sport.dll
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\bin\Debug\net5.0\ref\Sport.dll
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\bin\Debug\net5.0\Sport.pdb
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\obj\Debug\net5.0\Sport.csproj.AssemblyReference.cache
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\obj\Debug\net5.0\Sport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\obj\Debug\net5.0\Sport.AssemblyInfoInputs.cache
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\obj\Debug\net5.0\Sport.AssemblyInfo.cs
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\obj\Debug\net5.0\Sport.csproj.CoreCompileInputs.cache
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\obj\Debug\net5.0\Sport.dll
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\obj\Debug\net5.0\ref\Sport.dll
+C:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave 1\Sport\obj\Debug\net5.0\Sport.pdb
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\bin\Debug\net5.0\Sport.deps.json
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\bin\Debug\net5.0\Sport.dll
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\bin\Debug\net5.0\ref\Sport.dll
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\bin\Debug\net5.0\Sport.pdb
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\obj\Debug\net5.0\Sport.csproj.AssemblyReference.cache
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\obj\Debug\net5.0\Sport.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\obj\Debug\net5.0\Sport.AssemblyInfoInputs.cache
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\obj\Debug\net5.0\Sport.AssemblyInfo.cs
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\obj\Debug\net5.0\Sport.csproj.CoreCompileInputs.cache
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\obj\Debug\net5.0\Sport.dll
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\obj\Debug\net5.0\ref\Sport.dll
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-1\Opgave 1\Sport\obj\Debug\net5.0\Sport.pdb
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\bin\Debug\net5.0\Sport.deps.json
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\bin\Debug\net5.0\Sport.dll
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\bin\Debug\net5.0\ref\Sport.dll
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\bin\Debug\net5.0\Sport.pdb
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\obj\Debug\net5.0\Sport.csproj.AssemblyReference.cache
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\obj\Debug\net5.0\Sport.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\obj\Debug\net5.0\Sport.AssemblyInfoInputs.cache
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\obj\Debug\net5.0\Sport.AssemblyInfo.cs
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\obj\Debug\net5.0\Sport.csproj.CoreCompileInputs.cache
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\obj\Debug\net5.0\Sport.dll
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\obj\Debug\net5.0\ref\Sport.dll
+E:\Dropbox\Visual Studio\Projects\Obligatorisk Opgaver\Opgave-5\Sport\obj\Debug\net5.0\Sport.pdb
